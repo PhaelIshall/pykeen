@@ -65,7 +65,7 @@ The latest version of PyKEEN can be installed directly from the
 source on [GitHub](https://github.com/pykeen/pykeen) with:
 
 ```shell
-$ pip install git+https://github.com/pykeen/pykeen.git
+$ pip install git+https://github.com/PhaelIshall/pykeen.git
 ```
 
 More information about installation (e.g., development mode, Windows installation, Colab, Kaggle, extras)
